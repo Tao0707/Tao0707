@@ -5,6 +5,8 @@
   <img src="https://github.com/Tao462775697/Tao462775697/blob/output/github-contribution-grid-snake.svg"/>
 </p>	
 
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
 
 # 联系方式
 

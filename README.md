@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+### 欢迎来到我的个人主页！
 
 
 # 联系方式

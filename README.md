@@ -63,8 +63,10 @@
 
 ## 技术文章
 
-- [使用Unity3D读取Json、XML、Excel文件](https://blog.csdn.net/q764424567/article/details/105976564)
-- [Unity3D获取天气信息以及地方位置](https://blog.csdn.net/q764424567/article/details/105999041)
+- [软甲体系架构 - 可用性 读书笔记](https://www.cnblogs.com/TDRGLLT/p/17174091.html)
+- [HTML中实现按钮跳转页面功能](https://www.cnblogs.com/TDRGLLT/p/16004865.html)
+- [HTML中table，tr，td](https://www.cnblogs.com/TDRGLLT/p/16010602.html)
+- [tomcat到底是干嘛的](https://www.cnblogs.com/TDRGLLT/p/15439971.html)
 ---      
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。

@@ -57,10 +57,6 @@
   - 图书管理系统
   - 智能排班系统
 
-  
-  - [Unity3D插件收集](https://github.com/764424567/Unity-plugin)：Unity3D插件收集
-  - [Unity3D跑酷小游戏](https://github.com/764424567/Game_Parkour)：Unity3D跑酷小游戏
-
 ## 技术文章
 
 - [软甲体系架构 - 可用性 读书笔记](https://www.cnblogs.com/TDRGLLT/p/17174091.html)
